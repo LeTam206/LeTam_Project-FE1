@@ -1,0 +1,373 @@
+body {
+    font-size: 15px;
+}
+
+.text {
+    letter-spacing: 1px;
+
+}
+
+
+/* Header */
+/* Navbar */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-menu {
+    position: absolute;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.top-header i {
+    padding-left: 30px;
+    padding-top: 12px;
+    color: #000;
+    font-size: medium;
+}
+
+.top-header a:hover {
+    color: #0be6af;
+}
+
+.top-header i:hover {
+    color: #0be6af;
+}
+
+/* Banner */
+.banner {
+    background: url(../images/home-custom-bg.jpg);
+}
+
+.text-in-banner {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.text-in-banner h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.text-in-banner p {
+    margin-top: 30px;
+}
+
+.btn-in-banner {
+    text-align: center;
+}
+
+.btn-in-banner .btn {
+    text-decoration: none;
+    background: #0be6af;
+    color: #fff;
+    border: #0be6af 1px solid;
+    border-radius: 500px;
+    padding: 15px 30px;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+.btn-in-banner .btn:hover {
+    background: #000;
+    border: #000 1px solid;
+}
+
+/* Bot header */
+.bot-header {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.label img{
+    display: inline-block;
+    padding-left: 35px;    
+    padding-right: 35px;    
+}
+
+/* Main content */
+.main-content {
+    margin-top: 100px;
+}
+
+/* Our mission */
+.main-content .item h1 .have-border {
+    display: inline-block;
+    border-bottom: #d6d6d6 3px solid;
+    padding-bottom: 15px;
+}
+
+.main-content .mission-1 {
+    width: 350px;
+    height: 250px;
+}
+
+.main-content .mission-2 {
+    width: 350px;
+    height: 250px;
+}
+
+.btn-in-our-mission .btn {
+    text-decoration: none;
+    background: #0be6af;
+    color: #fff;
+    border: #0be6af 1px solid;
+    border-radius: 500px;
+    padding: 15px 30px;
+    margin-top: 15px;
+}
+
+.btn-in-our-mission .btn:hover {
+    background: #000;
+    border: #000 1px solid;
+}
+
+.text-in-mission {
+
+    padding-left: 30px;
+
+}
+
+.text-in-mission a {
+    text-decoration: none;
+    color: #000;
+}
+
+.text-in-mission a:hover {
+    color: #0be6af;
+}
+
+/* Sb is our ls */
+.sb-is-our-ls {
+    background: url(../images/home-custom-bg2.jpg);
+    background-size: cover;
+    margin-top: 100px;
+    margin-left: -325px;
+}
+
+
+.sb-is-our-ls .item {
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.sb-is-our-ls span{
+    border-bottom: #d6d6d6 3px solid;
+}
+
+.successfull {
+    color: #0be6af;
+}
+
+.ls {
+    border-bottom: #d6d6d6 3px solid;
+}
+
+.btn-in-sb .btn {
+    text-decoration: none;
+    background: #0be6af;
+    color: #fff;
+    border: #0be6af 1px solid;
+    border-radius: 500px;
+    padding: 15px 30px;
+    margin-top: 15px;
+    margin-bottom: 200px;
+}
+
+.btn-in-sb .btn:hover {
+    background: #000;
+    border: #000 1px solid;
+}
+
+/* Numbers */
+.numbers {
+    background: #0be6af;
+}
+
+.numbers .num {
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.numbers .have-border {
+    border-right: #fff 1px solid;
+}
+
+/* Gashie Inc */
+.gashie-inc {
+    margin-top: 120px;
+}
+
+.text-in-gashie-inc {
+    text-align: center;
+}
+
+.text-in-gashie-inc .have-border {
+    display: inline-block;
+    border-bottom: #d6d6d6 3px solid;
+    padding-bottom: 15px;
+}
+
+.gashie-inc p {
+    padding-bottom: 15px;
+}
+
+.gashie-inc .pic {
+    width: 350px;
+    height: 300px;
+}
+
+/* Btn More Project */
+.btn-more-project {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.btn-more-project a {
+
+    text-align: center;
+    text-decoration: none;
+    background: #0be6af;
+    color: #fff;
+    border: #0be6af 1px solid;
+    border-radius: 500px;
+    padding: 20px 35px;
+
+}
+
+.btn-more-project a:hover {
+    background: #000;
+    border: #000 1px solid;
+}
+
+/* What people say */
+.what-people-say {
+    background: url(../images/Guy\ Richie.jpg);
+}
+
+.what-people-say .item {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.what-people-say .item .have-border {
+    display: inline-block;
+    border-bottom: #d6d6d6 3px solid;
+    padding-bottom: 15px;
+}
+
+.text-in-wps {
+    background: #fff;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-left: 65px;
+    font-size: 17px;
+}
+
+.fa-quote-left {
+    font-size: 70px;
+    color: #0be6af;
+}
+
+/* Footer */
+.footer {
+    background: #1b1b1b;
+    color: #fff;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    font-size: 14px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.photo-footer {
+    width: 90px;
+    height: 90px;
+}
+
+.footer .have-padding-top {
+    padding-top: 5px;
+}
+
+.footer a:hover {
+    color: #0be6af;
+}
+
+.footer .item-1-2 i {
+    color: #0be6af;
+}
+
+.footer .time-footer {
+    font-weight: bold;
+}
+
+/* Finally */
+.finally {
+    background: #151515;
+    color: #fff;
+}
+
+.finally .container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.finally a {
+    color: #fff;
+}
+
+.finally .pri-poli {
+    text-decoration: none;
+}
+
+.finally .icon {
+    text-align: right;
+}
+
+.finally .icon a {
+    letter-spacing: 12px;
+}
+
+.finally a:hover {
+    color: #0be6af;
+}
+
+/* RWD */
+/* Mobile */
+@media only screen and (max-width: 740px) {
+    .navbar-brand {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .text-in-banner h1 {
+        font-size: 30px;
+    }
+
+    .narbar-nav{
+        display: none;
+    }
+
+    img .label{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+}
+
+/* Tablet */
+/* @media only screen and (min-width: 740px) and (max-width: 1024px){
+    .banner{
+
+    }
+} */
